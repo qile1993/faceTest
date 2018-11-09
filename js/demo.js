@@ -80,7 +80,7 @@
 
             mode: "callback",
             // callback | save | stream
-            swffile: "./fallback/jscam_canvas_only.swf",
+            swffile: "../jscam_canvas_only.swf",
             quality: 85,
             context: "",
 
